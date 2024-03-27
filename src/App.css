@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,15 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.mouseEvents {
+  cursor: pointer;
+}
+
+#search-box{
+  width: 200px;
+    height: 37px;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 20px;
 }
